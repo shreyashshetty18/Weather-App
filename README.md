@@ -1,6 +1,6 @@
 # 🌤️ Simple Weather App
 
-🔗 Live Demo - 
+🔗 Live Demo - https://weatherappglobe.netlify.app/
 
 A lightweight, responsive weather application built with **HTML**, **CSS**, and **JavaScript**, utilizing the **OpenWeatherMap API** to fetch real-time weather data based on user input.
 
