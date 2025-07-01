@@ -1,7 +1,7 @@
 
 lucide.createIcons();
 
-const API_KEY = '9e4e5ea4bedc237a032c41633299bcf1';
+const API_KEY = 'your_api_key';
 const weatherApiBaseUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 const cityInput = document.getElementById('city-input');
